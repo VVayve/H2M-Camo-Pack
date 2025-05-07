@@ -1,0 +1,63 @@
+-- Default --
+
+Desert - wpn_h2m_camo_desert
+Arctic - wpn_h2m_camo_arctic
+Woodland - wpn_h2m_camo_woodland
+Digital - wpn_h2m_camo_digital
+Urban - wpn_h2m_camo_urban
+Blue Tiger - wpn_h2m_camo_blue_tiger
+Red Tiger - wpn_h2m_camo_red_tiger
+Fall - h2m_weapon_camo_orange_fall
+Gold - wpn_h2m_camo_gold_col
+Diamond - camo_diamond_spc-rgb&-rc07c86b6a
+Toxic Waste - wpn_h2m_camo_toxic_waste_ems
+
+
+-- Solid --
+
+Yellow - wpn_h2m_camo_yellow
+White - wpn_h2m_camo_white
+Red - wpn_h2m_camo_red
+Purple - wpn_h2m_camo_purple
+Pink - wpn_h2m_camo_pink
+Pastel Brown - wpn_h2m_camo_pastel_brown
+Orange - wpn_h2m_camo_orange
+Light Pink - wpn_h2m_camo_light_pink
+Green - wpn_h2m_camo_green
+Dark Red - wpn_h2m_camo_dark_red
+Dark Green - wpn_h2m_camo_dark_green
+Cyan - wpn_h2m_camo_cyan
+Brown - wpn_h2m_camo_brown
+Blue - wpn_h2m_camo_blue
+Black - wpn_h2m_camo_black
+
+
+-- Polyatomic -- 
+
+Yellow Polyatomic - wpn_h2m_camo_poly_yellow_col
+Orange Polyatomic - wpn_h2m_camo_poly_orange_col
+Polyatomic - wpn_h2m_camo_polyatomic
+Dark Red Polyatomic - wpn_h2m_camo_poly_dred_col
+Blue Polyatomic - wpn_h2m_camo_poly_blue_col
+Pink Polyatomic - wpn_h2m_camo_poly_pink_col
+Green Polyatomic - wpn_h2m_camo_poly_green_col
+Red Polyatomic - wpn_h2m_camo_poly_red_col
+Cyan Polyatomic - wpn_h2m_camo_poly_cyan_col
+
+
+-- Elemental --
+
+Gas - wpn_h2m_camo_gas_ems
+Lava - wpn_h2m_camo_lava_ems
+Water - wpn_h2m_camo_water_ems
+Fire - wpn_h2m_camo_fire_ems
+Ice - wpn_h2m_camo_ice_ems
+Storm - wpn_h2m_camo_storm_ems
+
+
+-- Bonus --
+
+Nuclear Blue - 
+Nuclear Red - 
+Doomsday - wpn_h2m_camo_doomsday_ems
+Soaring - wpn_h2m_camo_soaring
